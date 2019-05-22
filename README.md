@@ -6,6 +6,6 @@ https://www.youtube.com/watch?v=TAJCr3_kfEc&list=PLkdmC1lUA21kIv7ghnHtOq8iVg2YRi
 ---
 5/22/2019
 
-Part2of9 repeats some work done in Part1of9.  I was using the wrong screen reference scale for the Canvas, which made everything a little wonky.
+Branch "Part2of9" repeats some work done in "Part1of9".  I was using the wrong screen reference scale for the Canvas, which made everything a little wonky.
 
 ---
